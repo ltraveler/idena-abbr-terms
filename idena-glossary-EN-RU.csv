@@ -1,0 +1,6 @@
+Term,Definition,Термин,Расшифровка
+Active miner,Actively mining identity running their own mining node or delegated into mining pool.,Активный майнер,Количество участников сети с включенным майнингом либо делегировавших майнинг в пул.
+Active wallet,Unique wallet that made transactions during the last epoch.,Активный кошелёк,"Кошельки, на адресах которых осуществлялись те или иные транзакции в течении эпохи."
+Mining node,Full mining node run by individual identitiy or pool owner who activated online status.,Майнинг нода,Количество независимых майнинг нод запущенных отдельными участниками сети либо владельцами пулов со статусом онлайн.
+Newcomer,Identity that has been validated for the first time.,Начинающий,Идентичность прошедшая валидацию в первый раз.
+Success ratio,Share of users attended the validation and successfully validated.,Рейтинг успеха,Доля пользователей участвовавших в валидации и успешно прошедших ее.
